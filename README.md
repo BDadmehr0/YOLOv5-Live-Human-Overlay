@@ -56,6 +56,8 @@ python main.py
 
 ## 📸 Screenshot
 
+![Screenshot 1](https://github.com/BDadmehr0/YOLOv5-Live-Human-Overlay/blob/main/src/Screenshot%20(3).png "Screenshot 1")
+![Screenshot 2]([image-url](https://github.com/BDadmehr0/YOLOv5-Live-Human-Overlay/blob/main/src/Screenshot%20(7).png) "Screenshot 2")
 
 ## 📄 License
 
